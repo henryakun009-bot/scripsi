@@ -1,0 +1,2 @@
+# zura
+scripsi zura
